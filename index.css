@@ -1,0 +1,31 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+.container{
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+a{
+	color: #ef5839;
+}
+.title-section{
+	width: 350px;
+}
+.title-text{
+	background: #2e354f;
+	color: #fff;
+	padding: 20px;
+	
+}
+.btn{
+	display: inline-block;
+	padding: 10px 25px;
+	background: #ef5839;
+	color: #fff;
+	text-decoration: none;
+}
+.btn:hover{
+	color: #2e354f;
+	background: #d4b44c;
+}
