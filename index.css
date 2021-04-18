@@ -10,13 +10,13 @@ a{
 	color: #ef5839;
 }
 .title-section{
-	width: 350px;
+	width: 450px;
 }
 .title-text{
 	background: #2e354f;
 	color: #fff;
-	padding: 20px;
-	
+	padding: 15px;
+	text-transform: uppercase;
 }
 .btn{
 	display: inline-block;
